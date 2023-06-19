@@ -6,7 +6,7 @@ ping=0
 source poweron.cfg
 
 declare -A D_array
-declare -A W_arrey
+declare -A W_array
 
 #logging funciton
 myprint(){
